@@ -1,0 +1,8 @@
+# robots.txt — drrahulkhanpt.com
+# Physiotherapist in Jaipur — Dr. Rahul Khan PT
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.drrahulkhanpt.com/sitemap.xml
